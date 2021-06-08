@@ -1,0 +1,20 @@
+<blockbuster>
+    <movie category='action'>
+        <title lang='en'>Batman</title>
+        <producer>Michael Uslan</producer>
+        <year>1951</year>
+        <price>20.00</price>
+    </movie>
+    <movie category='comedy'>
+        <title lang='en'>Friday</title>
+        <producer>Bryan Turner</producer>
+        <year>1995</year>
+        <price>25.00</price>
+    </movie>
+    <movie category='horror'>
+        <title lang='en'>Saw</title>
+        <producer>Mark Burg</producer>
+        <year>2004</year>
+        <price>18.00</price>
+    </movie>
+</blockbuster>
